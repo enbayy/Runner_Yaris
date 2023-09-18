@@ -1,5 +1,5 @@
 # Runner_Yaris
-Rakiplerini geç bitişe ulaş
+Rakiplerini ve geç bitişe ulaş
 
 Runner Yarış: https://www.youtube.com/watch?v=7k8xeT9TcGQ
 
